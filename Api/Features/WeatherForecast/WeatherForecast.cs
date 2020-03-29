@@ -1,6 +1,6 @@
 using System;
 
-namespace Api
+namespace Api.Features.WeatherForecast
 {
     public class WeatherForecast
     {
