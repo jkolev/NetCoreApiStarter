@@ -24,4 +24,4 @@ jobs:
     - name: Test
       run: dotnet test --no-restore --verbosity normal
       env:
-        ASPNETCORE_ENVIRONMENT: "test"
+        ASPNETCORE_ENVIRONMENT: "Test"
